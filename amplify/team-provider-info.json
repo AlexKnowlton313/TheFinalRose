@@ -1,23 +1,23 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-thefinalrose-dev-00206-authRole",
-            "UnauthRoleArn": "arn:aws:iam::693923495710:role/amplify-thefinalrose-dev-00206-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::693923495710:role/amplify-thefinalrose-dev-00206-authRole",
-            "Region": "us-west-2",
-            "DeploymentBucketName": "amplify-thefinalrose-dev-00206-deployment",
-            "UnauthRoleName": "amplify-thefinalrose-dev-00206-unauthRole",
-            "StackName": "amplify-thefinalrose-dev-00206",
-            "StackId": "arn:aws:cloudformation:us-west-2:693923495710:stack/amplify-thefinalrose-dev-00206/3082afe0-ffc6-11ea-a928-0aa772971980",
-            "AmplifyAppId": "d2xyeg8wgl6da0"
-        },
-        "categories": {
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d2xyeg8wgl6da0",
-                    "type": "cicd"
-                }
-            }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thefinalrose-dev-00206-authRole",
+      "UnauthRoleArn": "arn:aws:iam::693923495710:role/amplify-thefinalrose-dev-00206-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::693923495710:role/amplify-thefinalrose-dev-00206-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-thefinalrose-dev-00206-deployment",
+      "UnauthRoleName": "amplify-thefinalrose-dev-00206-unauthRole",
+      "StackName": "amplify-thefinalrose-dev-00206",
+      "StackId": "arn:aws:cloudformation:us-west-2:693923495710:stack/amplify-thefinalrose-dev-00206/3082afe0-ffc6-11ea-a928-0aa772971980",
+      "AmplifyAppId": "d2xyeg8wgl6da0"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2xyeg8wgl6da0",
+          "type": "cicd"
         }
+      }
     }
+  }
 }
