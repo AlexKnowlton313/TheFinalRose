@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "thefinalrosec22e2af6": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

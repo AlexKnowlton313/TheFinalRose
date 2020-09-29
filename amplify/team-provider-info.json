@@ -10,6 +10,11 @@
       "StackName": "amplify-thefinalrose-dev-212546",
       "StackId": "arn:aws:cloudformation:us-west-2:693923495710:stack/amplify-thefinalrose-dev-212546/d8d7f6e0-020b-11eb-b3e4-0a38c6f89341",
       "AmplifyAppId": "d37avuf36k1bq9"
+    },
+    "categories": {
+      "auth": {
+        "thefinalrosec22e2af6": {}
+      }
     }
   }
 }
